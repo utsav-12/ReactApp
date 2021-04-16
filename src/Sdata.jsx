@@ -28,6 +28,18 @@ const Sdata = [
         title: 'A Netflix Orignal Series ',
         sname: 'THE WITCHER',
         link: 'https://www.netflix.com/in/title/80189685'
+    },
+    {
+        imgsrc: 'https://wallpapercave.com/wp/wp5680704.jpg',
+        title: 'A Netflix Orignal Series ',
+        sname: 'THE WITCHER',
+        link: 'https://www.netflix.com/in/title/80189685'
+    },
+    {
+        imgsrc: 'https://wallpapercave.com/wp/wp5680704.jpg',
+        title: 'A Netflix Orignal Series ',
+        sname: 'THE WITCHER',
+        link: 'https://www.netflix.com/in/title/80189685'
     }
 ]
 
